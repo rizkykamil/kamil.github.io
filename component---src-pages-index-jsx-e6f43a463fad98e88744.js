@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkblog_imam_fahrur_rofi=self.webpackChunkblog_imam_fahrur_rofi||[]).push([[230],{4199:function(e,r,a){a.r(r);var l=a(7294),t=a(8651);r.default=function(){return l.createElement(t.Z,{title:"kamil"},l.createElement("p",null,"kamil"))}}}]);
+//# sourceMappingURL=component---src-pages-index-jsx-e6f43a463fad98e88744.js.map
